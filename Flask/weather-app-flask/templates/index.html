@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Hava Durumu Tahmini</title>
+  </head>
+  <body>
+    <h1>Hava Durumu</h1>
+    <form method="post" action="{{ url_for('index') }}">
+      <input type="text" name="city" placeholder="Şehir adı girin">
+      <button type="submit">Tahmin Et</button>
+    </form>
+
+    {% if weather %}
+      <h2>{{ weather.city }}, {{ weather.country }}</h2>
+      <h3>{{ weather.temp }}°C</h3>
+      <h4>{{ weather.description }}</h4>
+      <img src="{{ weather.icon }}" alt="{{ weather.description }}">
+    {% endif %}
+  </body>
+</html>
