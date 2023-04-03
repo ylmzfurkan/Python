@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Döviz Kuru Dönüşümü</title>
+  </head>
+  <body>
+    <h1>Döviz Kuru Dönüşümü</h1>
+    <form method="post" action="{{ url_for('index') }}">
+      <input type="text" name="base_currency" placeholder="(ör. USD)">
+      <input type="text" name="target_currency" placeholder="(ör. EUR)">
+      <input type="date" name="date" required>
+      <button type="submit">Dönüşüm Oranı</button>
+    </form>
+
+    {% if exchange_rate %}
+      <h2>{{ base_currency }}1 = {{ target_currency }}{{ exchange_rate }}</h2>
+    {% endif %}
+  </body>
+</html>
