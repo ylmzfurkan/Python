@@ -6,7 +6,7 @@ Anagram Bulucu, kullanıcıların terminal üzerinden kelime girişi yaparak, ke
 
 1. Bu projeyi yerel makinenize kopyalayın:
 
-git clone https://github.com/kullaniciadi/anagram-bulucu.git
+git clone https://github.com/ylmzfurkan/anagram-bulucu.git
 
 
 2. İngilizce kelimeleri içeren bir metin dosyası indirin. Örnek olarak, [GitHub'da bulunan bu kelime listesini](https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt) kullanabilirsiniz. İndirilen dosyanın adı `words_alpha.txt` olsun ve projenin ana dizinine yerleştirin.
