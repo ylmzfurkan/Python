@@ -6,7 +6,7 @@ Bu Python uygulaması, SQLite veritabanını kullanarak terminalde çalışan ba
 
 1. Bu depoyu klonlayın veya indirin:
 
-git clone https://github.com/kullaniciadi/your-repo.git
+git clone https://github.com/ylmzfurkan/your-repo.git
 cd your-repo
 
 
