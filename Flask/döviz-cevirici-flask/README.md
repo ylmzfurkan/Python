@@ -6,7 +6,7 @@ Bu Flask uygulaması, belirli bir tarihte iki para birimi arasındaki döviz kur
 
 1. Bu depoyu klonlayın veya indirin:
 
-git clone https://github.com/kullaniciadi/your-repo.git
+git clone https://github.com/ylmzfurkan/your-repo.git
 cd your-repo
 
 
