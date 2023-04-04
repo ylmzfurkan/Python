@@ -6,7 +6,7 @@ Sezar Şifreleme, kullanıcıların metinlerini şifreleyip çözebilecekleri ba
 
 1. Bu projeyi yerel makinenize kopyalayın:
 
-git clone https://github.com/kullaniciadi/sezar-sifreleme.git
+git clone https://github.com/ylmzfurkan/sezar-sifreleme.git
 
 
 ## Kullanım
