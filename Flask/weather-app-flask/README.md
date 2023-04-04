@@ -6,7 +6,7 @@ Bu proje, kullanıcıların şehir adı girerek o şehir için mevcut hava durum
 
 1. Bu projeyi yerel makinenize klonlayın veya indirin.
 
-git clone https://github.com/kullaniciadi/weather_app.git
+git clone https://github.com/ylmzfurkan/weather_app.git
 
 
 2. Proje dizinine gidin ve sanal bir ortam oluşturun (isteğe bağlı):
