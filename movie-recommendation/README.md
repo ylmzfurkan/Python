@@ -29,13 +29,12 @@ python movie.py
 
 2. Belirli bir filmle ilgili öneriler almak için, betiğin içinde `movie_title` değişkenini aradığınız filmle güncelleyin ve betiği tekrar çalıştırın.
 
-```python
+python
 movie_title = "The Dark Knight"
 
 3. Önerilen filmler, betiğin çıktısı olarak görüntülenecektir.
 
 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
-
 
 Bu README.md dosyasını, projenizin ana dizininde oluşturun ve yukarıdaki içeriği dosyaya yapıştırın. README dosyasında kullanıcı adınızı ve projenizin GitHub URL'sini doğru bir şekilde güncellemeyi unutmayın.
