@@ -18,7 +18,7 @@ pip install requests pandas
 
 Currency Analyzer'ı kullanmak için öncelikle, https://exchangeratesapi.io/ adresine giderek bir API anahtarı almanız gerekmektedir. Ardından, aşağıdaki kod satırını değiştirerek API anahtarınızı girin:
 
-```python
+
 access_key = "YOUR_ACCESS_KEY"  # Buraya gerçek API anahtarınızı ekleyin
 
 Currency Analyzer'ı çalıştırmak için terminalde şu komutu kullanın:
