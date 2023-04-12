@@ -25,11 +25,14 @@ Currency Analyzer'ı çalıştırmak için terminalde şu komutu kullanın:
 
 python Currency-Analyzer.py
 
-urrency Analyzer, temel para birimi için güncel döviz kurlarını alır ve "exchange_rates.csv" adlı bir CSV dosyasına yazar.
+Currency Analyzer, temel para birimi için güncel döviz kurlarını alır ve "exchange_rates.csv" adlı bir CSV dosyasına yazar.
 
-Özellikler
+## Özellikler
+
 Temel para birimi için güncel döviz kurlarını alır.
 Döviz kurlarını büyükten küçüğe sıralar.
 Sıralanmış döviz kurlarını bir CSV dosyasına yazar.
-Lisans
+
+## Lisans
+
 Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.
