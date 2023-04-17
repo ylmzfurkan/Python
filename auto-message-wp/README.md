@@ -12,7 +12,7 @@ Bu proje, belirli zaman aralıklarında seçilen kişilere veya gruplara WhatsAp
 
 1. Projeyi klonlayın veya indirin:
 
-git clone https://github.com/your-username/whatsapp-auto-message.git
+git clone https://github.com/ylmzfurkan/whatsapp-auto-message.git
 
 2. Gerekli paketleri yükleyin:
 
