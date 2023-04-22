@@ -1,4 +1,4 @@
-Program çalıştığında, aşağıdaki seçenekler sunulacaktır:
+# Program çalıştığında, aşağıdaki seçenekler sunulacaktır:
 
 1. Yeni not ekle
 2. Ders notlarını göster
