@@ -4,7 +4,7 @@ Bu repo, Python programlama dili öğrenirken yapılan örnekler ve projeler iç
 
 ## Başlarken
 
-Bu örnekleri ve projeleri çalıştırmak için bilgisayarınızda Python yüklü olmalıdır. Python'un son sürümünü [buradan](https://www.python.org/downloads/) indirebilirsiniz..
+Bu örnekleri ve projeleri çalıştırmak için bilgisayarınızda Python yüklü olmalıdır. Python'un son sürümünü [buradan](https://www.python.org/downloads/) indirebilirsiniz...
 
 ## Kaynaklar
 
